@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="alien_840" size="840.000000 1176.000000" />
+    <ImageTarget name="lobo_960" size="960.000000 900.879761" />
+    <ImageTarget name="gato_648" size="648.000000 901.000000" />
+    <ImageTarget name="cesped" size="650.000000 650.000000" />
+  </Tracking>
+</QCARConfig>
